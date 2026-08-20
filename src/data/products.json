@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Sac à dos en cuir classique",
+    "category": "Sacs à dos",
+    "price": 49.99,
+    "images": ["https://placehold.co/400x400?text=Sac+à+dos+1"],
+    "description": "Sac à dos durable pour un usage quotidien, avec compartiment pour ordinateur portable.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Marque Exemple",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Sac à dos imperméable",
+    "category": "Sacs à dos",
+    "price": 59.99,
+    "images": ["https://placehold.co/400x400?text=Sac+à+dos+2"],
+    "description": "Sac résistant à l'eau, idéal pour les trajets et les étudiants.",
+    "inStock": true,
+    "rating": 4.2,
+    "brand": "Voyage",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Bouteille isotherme Kawaii",
+    "category": "Accessoires",
+    "price": 9.99,
+    "images": [
+      "/src/assets/products/thermosse1_1.png",
+      "/src/assets/products/thermosse1_2.png",
+      "/src/assets/products/thermosse1_3.png",
+      "/src/assets/products/thermosse1_4.png"
+    ],
+    "description": "Gardez vos boissons à la bonne température avec ce thermos isotherme pratique et élégant. \nDisponible avec plusieurs motifs tendance : Kuromi, Stitch, Panda et Capybara. Idéal pour l’écoleou les sorties.",
+    "inStock": true,
+    "rating": 4.0,
+    "brand": "Papeterie Pro",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Trousse en tissu artisanal",
+    "category": "Trousses",
+    "price": 14.5,
+    "images": ["/src/assets/products/trousse1.png"],
+    "description": "Trousse fabriquée à la main avec tissu de haute qualité.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "Artisan",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Taille crayon Stitch",
+    "category": "Taille Crayon",
+    "price": 2.5,
+    "images": ["/src/assets/products/taille_crayon.png"],
+    "description": "Taille-crayon pratique et original à l’effigie de Stitch, idéal pour l’école et le bureau. Compact, coloré et facile à utiliser.",
+    "inStock": true,
+    "rating": 4.1,
+    "brand": "Écriture+",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Trousse 3D rigide",
+    "category": "Trousses",
+    "price": 6.99,
+    "images": [
+      "/src/assets/products/trousse2.png",
+      "/src/assets/products/trousse2_2.png"
+    ],
+    "description": "Des modèles colorés et super tendance \n Rigide et résistante \n Idéale pour organiser toutes les fournitures scolaires \n Des designs qui vont faire craquer les enfants !",
+    "inStock": true,
+    "rating": 4.3,
+    "brand": "ColorInk",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "Agenda de bureau hebdomadaire",
+    "category": "Bureautique",
+    "price": 12.99,
+    "images": ["https://placehold.co/400x400?text=Agenda+1"],
+    "description": "Agenda pratique pour organiser les rendez-vous, tâches et plannings professionnels.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Lot de chemises de classement",
+    "category": "Bureautique",
+    "price": 9.5,
+    "images": ["https://placehold.co/400x400?text=Classement+1"],
+    "description": "Pack de chemises et dossiers pour ranger documents et fiches administratives.",
+    "inStock": true,
+    "rating": 4.0,
+    "brand": "WorkBox",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Cahier lignés A5 - 80 pages",
+    "category": "Cahiers",
+    "price": 3.99,
+    "images": ["https://placehold.co/400x400?text=Cahier+1"],
+    "description": "Cahier pratique pour notes quotidiennes et classes.",
+    "inStock": true,
+    "rating": 3.9,
+    "brand": "NoteCraft",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Cahier relié premium A4 - 120 pages",
+    "category": "Cahiers",
+    "price": 7.99,
+    "images": ["https://placehold.co/400x400?text=Cahier+2"],
+    "description": "Cahier avec papier épais, idéal pour dessiner ou prendre des notes longues.",
+    "inStock": false,
+    "rating": 4.6,
+    "brand": "PremiumPaper",
+    "featured": true
+  }
+]
