@@ -29,10 +29,10 @@
     "category": "Accessoires",
     "price": 9.99,
     "images": [
-      "/src/assets/products/thermosse1_1.png",
-      "/src/assets/products/thermosse1_2.png",
-      "/src/assets/products/thermosse1_3.png",
-      "/src/assets/products/thermosse1_4.png"
+      "/products/thermosse1_1.png",
+      "/products/thermosse1_2.png",
+      "/products/thermosse1_3.png",
+      "/products/thermosse1_4.png"
     ],
     "description": "Gardez vos boissons à la bonne température avec ce thermos isotherme pratique et élégant. \nDisponible avec plusieurs motifs tendance : Kuromi, Stitch, Panda et Capybara. Idéal pour l’écoleou les sorties.",
     "inStock": true,
@@ -45,7 +45,7 @@
     "name": "Trousse en tissu artisanal",
     "category": "Trousses",
     "price": 14.5,
-    "images": ["/src/assets/products/trousse1.png"],
+    "images": ["/products/trousse1.png"],
     "description": "Trousse fabriquée à la main avec tissu de haute qualité.",
     "inStock": true,
     "rating": 4.7,
@@ -57,7 +57,7 @@
     "name": "Taille crayon Stitch",
     "category": "Taille Crayon",
     "price": 2.5,
-    "images": ["/src/assets/products/taille_crayon.png"],
+    "images": ["/products/taille_crayon.png"],
     "description": "Taille-crayon pratique et original à l’effigie de Stitch, idéal pour l’école et le bureau. Compact, coloré et facile à utiliser.",
     "inStock": true,
     "rating": 4.1,
@@ -70,8 +70,8 @@
     "category": "Trousses",
     "price": 6.99,
     "images": [
-      "/src/assets/products/trousse2.png",
-      "/src/assets/products/trousse2_2.png"
+      "/products/trousse2.png",
+      "/products/trousse2_2.png"
     ],
     "description": "Des modèles colorés et super tendance \n Rigide et résistante \n Idéale pour organiser toutes les fournitures scolaires \n Des designs qui vont faire craquer les enfants !",
     "inStock": true,
