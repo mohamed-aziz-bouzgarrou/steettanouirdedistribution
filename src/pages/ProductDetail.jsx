@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import products from "../data/products.json";
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -7,13 +8,9 @@ export default function ProductDetail() {
   const [selectedImage, setSelectedImage] = useState(0);
 
   useEffect(() => {
-    fetch("/src/data/products.json")
-      .then((r) => r.json())
-      .then((data) => {
-        const p = data.find((x) => String(x.id) === String(id));
-        setProduct(p);
-        setSelectedImage(0);
-      });
+    const p = products.find((x) => String(x.id) === String(id));
+    setProduct(p);
+    setSelectedImage(0);
   }, [id]);
 
   if (!product)

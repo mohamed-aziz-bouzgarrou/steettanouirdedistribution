@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import productsData from "../data/products.json";
 
 // Custom hook to load products and expose filtering/sorting/searching logic
 export default function useProducts(initialProducts = []) {
@@ -16,14 +17,14 @@ export default function useProducts(initialProducts = []) {
   useEffect(() => {
     let mounted = true;
     setLoading(true);
-    // load JSON file statically via fetch
-    fetch("/src/data/products.json")
-      .then((r) => r.json())
-      .then((data) => {
-        if (mounted) setProducts(data);
-      })
-      .catch((e) => console.error(e))
-      .finally(() => mounted && setLoading(false));
+    // load bundled JSON directly (works in dev and production)
+    try {
+      if (mounted) setProducts(productsData);
+    } catch (e) {
+      console.error(e);
+    } finally {
+      if (mounted) setLoading(false);
+    }
 
     return () => (mounted = false);
   }, []);
