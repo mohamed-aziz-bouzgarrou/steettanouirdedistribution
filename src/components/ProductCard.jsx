@@ -38,7 +38,7 @@ export default function ProductCard({ product }) {
           €{product.price.toFixed(2)}
         </p>
         <div className='mt-2 flex items-center justify-between'>
-          <RatingStars rating={product.rating} />
+          {/* <RatingStars rating={product.rating} /> */}
           <div
             className={`text-sm font-medium ${product.inStock ? "text-green-600" : "text-red-600"}`}>
             {product.inStock ? "En stock" : "Rupture"}

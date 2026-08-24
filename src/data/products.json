@@ -1,11 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Sac à dos en cuir classique",
-    "category": "Sacs à dos",
+    "name": "Lunch Box enfant",
+    "category": "Lunchbox",
     "price": 49.99,
-    "images": ["https://placehold.co/400x400?text=Sac+à+dos+1"],
-    "description": "Sac à dos durable pour un usage quotidien, avec compartiment pour ordinateur portable.",
+    "images": [
+      "/products/lunchbox1_1.png",
+      "/products/lunchbox1_2.png",
+      "/products/lunchbox1_3.png",
+      "/products/lunchbox1_4.png"
+    ],
+    "description": "Lunch Box enfant – Modèles Surfing, Badminton & Basketball \n Lunch box pratique et colorée, idéale pour accompagner les enfants à l’école, en sortie ou lors des activités sportives. Son design ludique est disponible en plusieurs motifs : Surfing, Badminton et Basketball. \nCompacte et facile à transporter, elle permet de garder le repas ou le goûter bien rangé tout au long de la journée. Un modèle à la fois pratique, léger et amusant, parfait pour les enfants.",
     "inStock": true,
     "rating": 4.5,
     "brand": "Marque Exemple",
@@ -13,11 +18,17 @@
   },
   {
     "id": 2,
-    "name": "Sac à dos imperméable",
+    "name": "Thermos isotherme enfant – Motifs Stitch",
     "category": "Sacs à dos",
     "price": 59.99,
-    "images": ["https://placehold.co/400x400?text=Sac+à+dos+2"],
-    "description": "Sac résistant à l'eau, idéal pour les trajets et les étudiants.",
+    "images": [
+      "/products/thermos2_1.png",
+      "/products/thermos2_2.png",
+      "/products/thermos2_3.png",
+      "/products/thermos2_4.png",
+      "/products/thermos2_5.png"
+    ],
+    "description": "Thermos isotherme enfant – Motifs Stitch \n Thermos isotherme pratique et coloré, idéal pour accompagner les enfants à l’école, en sortie ou lors de leurs activités. Il est disponible en plusieurs modèles avec de jolis motifs Stitch et ses personnages. \n Son format compact et son bouchon pratique facilitent le transport et l’utilisation au quotidien. Un accessoire pratique, léger et ludique, parfait pour garder les boissons à portée de main tout au long de la journée.",
     "inStock": true,
     "rating": 4.2,
     "brand": "Voyage",
@@ -69,10 +80,7 @@
     "name": "Trousse 3D rigide",
     "category": "Trousses",
     "price": 6.99,
-    "images": [
-      "/products/trousse2.png",
-      "/products/trousse2_2.png"
-    ],
+    "images": ["/products/trousse2.png", "/products/trousse2_2.png"],
     "description": "Des modèles colorés et super tendance \n Rigide et résistante \n Idéale pour organiser toutes les fournitures scolaires \n Des designs qui vont faire craquer les enfants !",
     "inStock": true,
     "rating": 4.3,
@@ -81,50 +89,18 @@
   },
   {
     "id": 7,
-    "name": "Agenda de bureau hebdomadaire",
+    "name": "Taille-crayon Stitch – 6 couleurs",
     "category": "Bureautique",
     "price": 12.99,
-    "images": ["https://placehold.co/400x400?text=Agenda+1"],
-    "description": "Agenda pratique pour organiser les rendez-vous, tâches et plannings professionnels.",
+    "images": [
+      "/products/taillecrayon_stitch2_1.png",
+      "/products/taillecrayon_stitch2_2.png",
+      "/products/taillecrayon_stitch2_3.png"
+    ],
+    "description": "Taille-crayon Stitch – 6 couleurs\nTaille-crayon pratique et ludique aux motifs Stitch, disponible en 6 couleurs différentes. Idéal pour l’école, le bureau ou la trousse, il permet de tailler facilement les crayons tout en ajoutant une touche colorée et amusante aux fournitures scolaires.\nUn accessoire compact, pratique et facile à utiliser, parfait pour les enfants et les fans de Stitch.",
     "inStock": true,
     "rating": 4.8,
     "brand": "OfficePlan",
-    "featured": true
-  },
-  {
-    "id": 8,
-    "name": "Lot de chemises de classement",
-    "category": "Bureautique",
-    "price": 9.5,
-    "images": ["https://placehold.co/400x400?text=Classement+1"],
-    "description": "Pack de chemises et dossiers pour ranger documents et fiches administratives.",
-    "inStock": true,
-    "rating": 4.0,
-    "brand": "WorkBox",
-    "featured": false
-  },
-  {
-    "id": 9,
-    "name": "Cahier lignés A5 - 80 pages",
-    "category": "Cahiers",
-    "price": 3.99,
-    "images": ["https://placehold.co/400x400?text=Cahier+1"],
-    "description": "Cahier pratique pour notes quotidiennes et classes.",
-    "inStock": true,
-    "rating": 3.9,
-    "brand": "NoteCraft",
-    "featured": false
-  },
-  {
-    "id": 10,
-    "name": "Cahier relié premium A4 - 120 pages",
-    "category": "Cahiers",
-    "price": 7.99,
-    "images": ["https://placehold.co/400x400?text=Cahier+2"],
-    "description": "Cahier avec papier épais, idéal pour dessiner ou prendre des notes longues.",
-    "inStock": false,
-    "rating": 4.6,
-    "brand": "PremiumPaper",
     "featured": true
   }
 ]

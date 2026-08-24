@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
-import logo from "../assets/images/logo2.png"; // Assuming you have a logo image in assets
+import logo from "../assets/images/logo3.png"; // Assuming you have a logo image in assets
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
