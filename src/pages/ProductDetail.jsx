@@ -23,6 +23,7 @@ export default function ProductDetail() {
     : product.image
       ? [product.image]
       : [];
+  const formattedPrice = Number(product.price ?? 0).toFixed(3);
 
   return (
     <div className='container mx-auto px-4 py-8'>
@@ -63,8 +64,8 @@ export default function ProductDetail() {
         <div>
           <h1 className='text-2xl font-bold'>{product.name}</h1>
           <p className='text-sm text-gray-600 mt-1'>{product.category}</p>
-          <p className='text-primary-600 text-xl font-semibold mt-4'>
-            €{product.price.toFixed(2)}
+          <p className='text-primary-600 text-xl font-semibold mt-4 text-right'>
+            {formattedPrice} DT
           </p>
           <p className='mt-4' style={{ whiteSpace: "pre-line" }}>
             {product.description}

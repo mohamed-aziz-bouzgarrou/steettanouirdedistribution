@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lunch Box enfant",
     "category": "Lunchbox",
-    "price": 49.99,
+    "price": 23.7,
     "images": [
       "/products/lunchbox1_1.png",
       "/products/lunchbox1_2.png",
@@ -19,8 +19,8 @@
   {
     "id": 2,
     "name": "Thermos isotherme enfant – Motifs Stitch",
-    "category": "Sacs à dos",
-    "price": 59.99,
+    "category": "Thermos",
+    "price": 22.7,
     "images": [
       "/products/thermos2_1.png",
       "/products/thermos2_2.png",
@@ -37,8 +37,8 @@
   {
     "id": 3,
     "name": "Bouteille isotherme Kawaii",
-    "category": "Accessoires",
-    "price": 9.99,
+    "category": "Thermos",
+    "price": 19.0,
     "images": [
       "/products/thermosse1_1.png",
       "/products/thermosse1_2.png",
@@ -67,7 +67,7 @@
     "id": 5,
     "name": "Taille crayon Stitch",
     "category": "Taille Crayon",
-    "price": 2.5,
+    "price": 3.18,
     "images": ["/products/taille_crayon.png"],
     "description": "Taille-crayon pratique et original à l’effigie de Stitch, idéal pour l’école et le bureau. Compact, coloré et facile à utiliser.",
     "inStock": true,
@@ -79,7 +79,7 @@
     "id": 6,
     "name": "Trousse 3D rigide",
     "category": "Trousses",
-    "price": 6.99,
+    "price": 12.8,
     "images": ["/products/trousse2.png", "/products/trousse2_2.png"],
     "description": "Des modèles colorés et super tendance \n Rigide et résistante \n Idéale pour organiser toutes les fournitures scolaires \n Des designs qui vont faire craquer les enfants !",
     "inStock": true,
@@ -90,14 +90,136 @@
   {
     "id": 7,
     "name": "Taille-crayon Stitch – 6 couleurs",
-    "category": "Bureautique",
-    "price": 12.99,
+    "category": "Taille Crayon",
+    "price": 2.85,
     "images": [
       "/products/taillecrayon_stitch2_1.png",
       "/products/taillecrayon_stitch2_2.png",
       "/products/taillecrayon_stitch2_3.png"
     ],
     "description": "Taille-crayon Stitch – 6 couleurs\nTaille-crayon pratique et ludique aux motifs Stitch, disponible en 6 couleurs différentes. Idéal pour l’école, le bureau ou la trousse, il permet de tailler facilement les crayons tout en ajoutant une touche colorée et amusante aux fournitures scolaires.\nUn accessoire compact, pratique et facile à utiliser, parfait pour les enfants et les fans de Stitch.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Trousse pour garçons",
+    "category": "Trousses",
+    "price": 13.2,
+    "images": [
+      "/products/trousse_garçon1_1.png",
+      "/products/trousse_garçon1_2.png",
+      "/products/trousse_garçon1_3.png",
+      "/products/trousse_garçon1_4.png"
+    ],
+    "description": "Trousse pratique et résistante, idéale pour ranger crayons, stylos, gommes et autres fournitures scolaires. Son design sobre convient parfaitement aux garçons et elle est disponible en 3 couleurs : noir, gris et bleu foncé.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 9,
+    "name": "Trousse pour filles",
+    "category": "Trousses",
+    "price": 13.2,
+    "images": [
+      "/products/trousse_jgay_fille_1_1.png",
+      "/products/trousse_jgay_fille_1_2.png",
+      "/products/trousse_jgay_fille_1_3.png"
+    ],
+    "description": "Trousse pratique et élégante, idéale pour ranger crayons, stylos, gommes et autres fournitures scolaires. Son design coloré et féminin convient parfaitement aux filles et elle est disponible en 2 couleurs : rose et violet",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 10,
+    "name": "Trousse Stitch",
+    "category": "Trousses",
+    "price": 6.1,
+    "images": [
+      "/products/trousse_stitch1_1.png",
+      "/products/trousse_stitch1_2.png",
+      "/products/trousse_stitch1_3.png",
+      "/products/trousse_stitch1_4.png"
+    ],
+    "description": "Trousse scolaire avec un joli motif Stitch, pratique et idéale pour ranger crayons, stylos, gommes et autres fournitures scolaires. Disponible en 3 coloris : bleu, noir et rose.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 11,
+    "name": "Pâte à modeler",
+    "category": "Pâte à modeler",
+    "price": 3.18,
+    "images": ["/products/pateamodeler1.png"],
+    "description": "Pâte à modeler souple et facile à manipuler, idéale pour laisser libre cours à la créativité des enfants. Parfaite pour créer différentes formes, personnages et objets tout en développant l’imagination et la motricité fine.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 12,
+    "name": "Pâte à modeler avec formes et rouleau",
+    "category": "Pâte à modeler",
+    "price": 5.75,
+    "images": ["/products/pateamodeler2.png"],
+    "description": "Set de pâte à modeler créatif comprenant plusieurs couleurs, des moules de différentes formes et un rouleau pour modeler facilement. Idéal pour créer des formes amusantes, développer l’imagination et stimuler la créativité des enfants.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 13,
+    "name": "Pâte à modeler avec formes ",
+    "category": "Pâte à modeler",
+    "price": 3.3,
+    "images": ["/products/pateamodeler3.png"],
+    "description": "Set de pâte à modeler avec moules de différentes formes, idéal pour créer facilement des personnages, animaux et objets amusants. Une activité ludique qui stimule la créativité, l’imagination et la motricité fine des enfants.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 14,
+    "name": "Pâte à modeler en boîte à roulettes",
+    "category": "Pâte à modeler",
+    "price": 9.7,
+    "images": ["/products/pateamodeler4.png"],
+    "description": "Set de pâte à modeler ludique et pratique, présenté dans une jolie boîte à roulettes facile à transporter. Le coffret comprend plusieurs couleurs de pâte à modeler ainsi que des moules de différentes formes pour créer facilement toutes sortes de personnages et de formes. Idéal pour stimuler la créativité, l’imagination et la motricité fine des enfants.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 15,
+    "name": "Pâte à modeler avec boîte",
+    "category": "Pâte à modeler",
+    "price": 5.45,
+    "images": ["/products/pateamodeler6.png"],
+    "description": "Set de pâte à modeler créatif présenté dans une boîte originale décorée. Le coffret comprend plusieurs couleurs de pâte à modeler ainsi que des moules de différentes formes pour réaliser de nombreuses créations. Pratique et amusant, il stimule la créativité et l’imagination des enfants.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "OfficePlan",
+    "featured": true
+  },
+  {
+    "id": 16,
+    "name": "Pâte à modeler en forme de coffre",
+    "category": "Pâte à modeler",
+    "price": 6.15,
+    "images": ["/products/pateamodeler5.png"],
+    "description": "Set de pâte à modeler ludique présenté dans une boîte en forme de petit coffre, facile à transporter et à ranger. Le coffret contient plusieurs couleurs de pâte à modeler et des moules de différentes formes pour créer facilement des personnages et objets amusants. Une activité idéale pour développer la créativité, l’imagination et la motricité fine.",
     "inStock": true,
     "rating": 4.8,
     "brand": "OfficePlan",

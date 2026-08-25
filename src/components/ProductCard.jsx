@@ -17,6 +17,7 @@ export default function ProductCard({ product }) {
   const image = Array.isArray(product.images)
     ? product.images[0]
     : product.image || "";
+  const formattedPrice = Number(product.price ?? 0).toFixed(3);
 
   return (
     <article className='border rounded-md overflow-hidden bg-white shadow-sm'>
@@ -34,8 +35,8 @@ export default function ProductCard({ product }) {
             {product.category}
           </span>
         </div>
-        <p className='mt-2 text-primary-600 font-bold'>
-          €{product.price.toFixed(2)}
+        <p className='mt-2 text-primary-600 font-bold text-right'>
+          {formattedPrice} DT
         </p>
         <div className='mt-2 flex items-center justify-between'>
           {/* <RatingStars rating={product.rating} /> */}
