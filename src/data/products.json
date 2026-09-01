@@ -224,5 +224,505 @@
     "rating": 4.8,
     "brand": "OfficePlan",
     "featured": true
+  },
+  {
+    "id": 17,
+    "name": "Sac à dos 1",
+    "category": "Sac à dos",
+    "price": 29.9,
+    "images": [
+      "/products/sacados1_1.png",
+      "/products/sacados1_2.png",
+      "/products/sacados1_3.png"
+    ],
+    "description": "Sac à dos enfant moderne et coloré, parfait pour l’école et les sorties. Confortable et spacieux, avec un design dynamique adapté aux enfants.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "School Fun",
+    "featured": true
+  },
+  {
+    "id": 18,
+    "name": "Sac à dos 2",
+    "category": "Sac à dos",
+    "price": 31.5,
+    "images": [
+      "/products/sacados2_1.png",
+      "/products/sacados2_2.png",
+      "/products/sacados2_3.png"
+    ],
+    "description": "Modèle de sac à dos avec un look jeune et pratique. Très confortable pour le quotidien de l’enfant, avec des volumes utiles pour les fournitures scolaires.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "Sac à dos 3",
+    "category": "Sac à dos",
+    "price": 32.0,
+    "images": [
+      "/products/sacados3_1.png",
+      "/products/sacados3_2.png",
+      "/products/sacados3_3.png"
+    ],
+    "description": "Sac à dos enfant aux couleurs pastel, idéal pour l’école et les activités. Design agréable et confortable, avec un dos souple et un volume pratique.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Sac à dos 4",
+    "category": "Sac à dos",
+    "price": 33.2,
+    "images": [
+      "/products/sacados4_1.png",
+      "/products/sacados4_2.png",
+      "/products/sacados4_3.png"
+    ],
+    "description": "Sac à dos pratique et élégant, pensé pour les enfants qui aiment les modèles modernes et colorés. Très fonctionnel au quotidien.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "School Fun",
+    "featured": true
+  },
+  {
+    "id": 21,
+    "name": "Sac à dos 5",
+    "category": "Sac à dos",
+    "price": 34.1,
+    "images": [
+      "/products/sacados5_1.png",
+      "/products/sacados5_2.png",
+      "/products/sacados5_3.png"
+    ],
+    "description": "Modèle de sac à dos très tendance avec un design enfantin et facile à transporter. Offre un espace suffisant pour les articles scolaires et les effets personnels.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "Sac à dos 6",
+    "category": "Sac à dos",
+    "price": 35.0,
+    "images": [
+      "/products/sacados6_1.png",
+      "/products/sacados6_2.png",
+      "/products/sacados6_3.png"
+    ],
+    "description": "Sac à dos durable avec une finition attrayante et des détails fonctionnels. Idéal pour les enfants qui ont besoin d’un accessoire solide et beau.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "School Fun",
+    "featured": true
+  },
+  {
+    "id": 23,
+    "name": "Ciseaux 1",
+    "category": "Ciseaux",
+    "price": 2.9,
+    "images": ["/products/ciseaux1.png"],
+    "description": "Ciseaux scolaires ergonomiques, parfaits pour les activités manuelles et les travaux de découpe. Lames tranchantes et poignée confortable.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Craft Kids",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "Ciseaux 2",
+    "category": "Ciseaux",
+    "price": 3.1,
+    "images": ["/products/ciseaux2.png"],
+    "description": "Ciseaux à usage scolaire avec design coloré et poignée confortable. Un accessoire facile à utiliser pour les enfants.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Craft Kids",
+    "featured": false
+  },
+  {
+    "id": 25,
+    "name": "Ciseaux 3",
+    "category": "Ciseaux",
+    "price": 3.3,
+    "images": ["/products/ciseaux3.png"],
+    "description": "Modèle de ciseaux coloré et pratique, idéal pour les enfants en cours d’arts plastiques et en classe.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Craft Kids",
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "Compas 1",
+    "category": "Compas",
+    "price": 6.8,
+    "images": ["/products/compas_1_1.png", "/products/compas_1_2.png"],
+    "description": "Compas scolaire robuste, idéal pour les travaux géométriques. Conception précise et faciles à utiliser pour les élèves.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "School Tools",
+    "featured": false
+  },
+  {
+    "id": 27,
+    "name": "Compas 2",
+    "category": "Compas",
+    "price": 7.2,
+    "images": ["/products/compas_2_1.png", "/products/compas_2_2.png"],
+    "description": "Compas de précision pour les exercices de géométrie, conçu pour un beau rendu et une utilisation pratique au quotidien.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "School Tools",
+    "featured": false
+  },
+  {
+    "id": 28,
+    "name": "Compas 3",
+    "category": "Compas",
+    "price": 7.9,
+    "images": [
+      "/products/compas_3_1.png",
+      "/products/compas_3_2.png",
+      "/products/compas_3_3.png"
+    ],
+    "description": "Compas à l’apparence premium, adapté aux élèves et aux élèves de niveau avancé. Pratique et precise pour les tracés et le dessin technique.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "School Tools",
+    "featured": true
+  },
+  {
+    "id": 29,
+    "name": "Lunch Box 2",
+    "category": "Lunchbox",
+    "price": 25.8,
+    "images": [
+      "/products/lunchbox_2_1.png",
+      "/products/lunchbox_2_2.png",
+      "/products/lunchbox_2_3.png"
+    ],
+    "description": "Lunch box pratique et colorée, idéale pour ranger le repas ou le goûter. Modèle compact et facile à transporter pour les enfants.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 30,
+    "name": "Portefeuille Stylo 1",
+    "category": "Portes stylos",
+    "price": 4.6,
+    "images": ["/products/portestylo1.png"],
+    "description": "Petit porte-stylos pratique pour organiser les stylos et les accessoires de bureau. Design simple et fonctionnel.",
+    "inStock": true,
+    "rating": 4.3,
+    "brand": "Office Tools",
+    "featured": false
+  },
+  {
+    "id": 31,
+    "name": "Portefeuille Stylo 2",
+    "category": "Portes stylos",
+    "price": 4.9,
+    "images": ["/products/portestylo2.png"],
+    "description": "Porte-stylo compact et utile, parfait pour ranger les stylos et les petits accessoires de bureau ou d’école.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Office Tools",
+    "featured": false
+  },
+  {
+    "id": 32,
+    "name": "Portefeuille Stylo 3",
+    "category": "Portes stylos",
+    "price": 5.1,
+    "images": ["/products/portestylo3.png"],
+    "description": "Modèle moderne de porte-stylos, idéal pour les enfants et les étudiants. Design pratique pour garder le matériel bien rangé.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Office Tools",
+    "featured": false
+  },
+  {
+    "id": 33,
+    "name": "Binder clips 1",
+    "category": "Accessoires bureau",
+    "price": 5.5,
+    "images": ["/products/binderclips1.png"],
+    "description": "Set de clips de bureau utiles pour organiser papiers et documents. Pratique et durable, idéal pour le bureau ou l’école.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Bureau Plus",
+    "featured": false
+  },
+  {
+    "id": 34,
+    "name": "Binder clips 2",
+    "category": "Accessoires bureau",
+    "price": 5.7,
+    "images": ["/products/binderclips2.png"],
+    "description": "Clips de bureau de qualité pour regrouper des papiers, documents et fiches. Modèle pratique et robuste.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Bureau Plus",
+    "featured": false
+  },
+  {
+    "id": 35,
+    "name": "Calculatrice Joinus 8122",
+    "category": "Calculatrices",
+    "price": 10.2,
+    "images": ["/products/calculatrice8122.png"],
+    "description": "Calculatrice de bureau compacte et fonctionnelle, adaptée à l’usage scolaire et quotidien. Facile à utiliser et pratique.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "Joinus",
+    "featured": true
+  },
+  {
+    "id": 36,
+    "name": "Calculatrice Joinus 5021",
+    "category": "Calculatrices",
+    "price": 11.0,
+    "images": ["/products/calculatrice_5021.png"],
+    "description": "Calculatrice de taille standard avec fonctionnement simple et fiable. Idéale pour les devoirs, le bureau et les tâches quotidiennes.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Joinus",
+    "featured": false
+  },
+  {
+    "id": 37,
+    "name": "Calculatrice Joinus 772",
+    "category": "Calculatrices",
+    "price": 12.4,
+    "images": ["/products/calculatrice_772.png"],
+    "description": "Calculatrice simple et pratique, adaptée à l’école et au travail. Design compact et écran lisible.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Joinus",
+    "featured": false
+  },
+  {
+    "id": 38,
+    "name": "Calculatrice 82MS",
+    "category": "Calculatrices",
+    "price": 13.6,
+    "images": ["/products/calculatrice_82ms.png"],
+    "description": "Calculatrice avec un format pratique et un affichage clair. Idéale pour les usages scolaires et de bureau.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "Joinus",
+    "featured": false
+  },
+  {
+    "id": 39,
+    "name": "Calculatrice 82TL",
+    "category": "Calculatrices",
+    "price": 13.9,
+    "images": ["/products/calculatrice_82tl.png"],
+    "description": "Calculatrice fonctionnelle et solide, avec un design classique apprécié pour le quotidien scolaire et professionnel.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "Joinus",
+    "featured": false
+  },
+  {
+    "id": 40,
+    "name": "Calculatrice 837",
+    "category": "Calculatrices",
+    "price": 14.2,
+    "images": ["/products/calculatrice_837.png"],
+    "description": "Calculatrice compacte et fiable, parfaite pour les élèves, les étudiants et les petites tâches quotidiennes.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "Joinus",
+    "featured": false
+  },
+  {
+    "id": 41,
+    "name": "Calculatrice 8618",
+    "category": "Calculatrices",
+    "price": 15.1,
+    "images": [
+      "/products/calculatrice_8618_1.png",
+      "/products/calculatrice_8618_2.png"
+    ],
+    "description": "Calculatrice de bureau légère et pratique, adaptée aux calculs du quotidien et aux besoins scolaires.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "Joinus",
+    "featured": true
+  },
+  {
+    "id": 42,
+    "name": "Calculatrice JS 840",
+    "category": "Calculatrices",
+    "price": 16.4,
+    "images": ["/products/calculatrice_js840.png"],
+    "description": "Calculatrice fonctionnelle au design robuste, idéale pour les études, le bureau et la maison.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "Joinus",
+    "featured": true
+  },
+  {
+    "id": 43,
+    "name": "Agrafe 1",
+    "category": "Agrafe",
+    "price": 3.8,
+    "images": ["/products/agrafe1.png"],
+    "description": "Agrafe de bureau classique pour relier facilement des feuilles et documents. Pratique et simple à utiliser.",
+    "inStock": true,
+    "rating": 4.4,
+    "brand": "Office Fix",
+    "featured": false
+  },
+  {
+    "id": 44,
+    "name": "Taille-crayon Labubu 1",
+    "category": "Taille Crayon",
+    "price": 2.9,
+    "images": [
+      "/products/taillecrayon_labubu1_1.png",
+      "/products/taillecrayon_labubu1_2.png"
+    ],
+    "description": "Taille-crayon aux couleurs pastel avec un design amusant inspiré de Labubu. Idéal pour l’école et les fournitures de bureau.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "School Fun",
+    "featured": true
+  },
+  {
+    "id": 45,
+    "name": "Taille-crayon Labubu 2",
+    "category": "Taille Crayon",
+    "price": 2.9,
+    "images": [
+      "/products/taillecrayon_labubu2_1.png",
+      "/products/taillecrayon_labubu2_2.png"
+    ],
+    "description": "Un second modèle de taille-crayon Labubu plus coloré, pratique et agréable à utiliser au quotidien.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 46,
+    "name": "Taille-crayon Labubu 3",
+    "category": "Taille Crayon",
+    "price": 3.1,
+    "images": [
+      "/products/taillecrayon_labubu3_1.png",
+      "/products/taillecrayon_labubu3_2.png"
+    ],
+    "description": "Taille-crayon Labubu dans une finition différente et plus tendance. Un accessoire scolaire à la fois fonctionnel et design.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "School Fun",
+    "featured": false
+  },
+  {
+    "id": 47,
+    "name": "Taille-crayon Stitch 1",
+    "category": "Taille Crayon",
+    "price": 2.8,
+    "images": [
+      "/products/taillecrayon_stitch1_1.png",
+      "/products/taillecrayon_stitch1_2.png"
+    ],
+    "description": "Taille-crayon de style Stitch, design ludique et très pratique pour la trousse scolaire. Idéal pour les enfants.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "Studio Cute",
+    "featured": false
+  },
+  {
+    "id": 48,
+    "name": "Taille-crayon Stitch 2",
+    "category": "Taille Crayon",
+    "price": 3.0,
+    "images": [
+      "/products/taillecrayon_stitch2_1.png",
+      "/products/taillecrayon_stitch2_2.png",
+      "/products/taillecrayon_stitch2_3.png"
+    ],
+    "description": "Taille-crayon Stitch avec plusieurs visuels, idéal pour les enfants et les fans de personnages kawaii. Compact et pratique.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "Studio Cute",
+    "featured": false
+  },
+  {
+    "id": 49,
+    "name": "Taille-crayon Stitch 3",
+    "category": "Taille Crayon",
+    "price": 3.2,
+    "images": [
+      "/products/taillecrayon_stitch3_1.png",
+      "/products/taillecrayon_stitch3_2.png",
+      "/products/taillecrayon_stitch3_3.png",
+      "/products/taillecrayon_stitch3_4.png"
+    ],
+    "description": "Taille-crayon avec un design Stitch plus détaillé et un look plus premium. Très pratique pour l’école et le bureau.",
+    "inStock": true,
+    "rating": 4.7,
+    "brand": "Studio Cute",
+    "featured": true
+  },
+  {
+    "id": 50,
+    "name": "Taille-crayon Stitch 4",
+    "category": "Taille Crayon",
+    "price": 3.3,
+    "images": [
+      "/products/taillecrayon_stitch4_1.png",
+      "/products/taillecrayon_stitch4_2.png"
+    ],
+    "description": "Modèle final de taille-crayon Stitch, coloré et facile à intégrer dans toute trousse scolaire. Fonctionnel et ludique.",
+    "inStock": true,
+    "rating": 4.6,
+    "brand": "Studio Cute",
+    "featured": false
+  },
+  {
+    "id": 51,
+    "name": "Sac à dos 7",
+    "category": "Sac à dos",
+    "price": 36.8,
+    "images": [
+      "/products/sacados7_1.png",
+      "/products/sacados7_2.png",
+      "/products/sacados7_3.png",
+      "/products/sacados7_4.png"
+    ],
+    "description": "Sac à dos enfant de grande qualité, pensé pour un usage régulier et confortable. Son style moderne et son volume pratique le rendent idéal pour l’école.",
+    "inStock": true,
+    "rating": 4.8,
+    "brand": "School Fun",
+    "featured": true
+  },
+  {
+    "id": 52,
+    "name": "Sac à dos 8",
+    "category": "Sac à dos",
+    "price": 37.4,
+    "images": [
+      "/products/sacados8_1.png",
+      "/products/sacados8_2.png",
+      "/products/sacados8_3.png"
+    ],
+    "description": "Ancien modèle de sac à dos avec un design alliant praticité et style. Compatible pour l’école, les sorties et les activités journalières.",
+    "inStock": true,
+    "rating": 4.5,
+    "brand": "School Fun",
+    "featured": false
   }
 ]
