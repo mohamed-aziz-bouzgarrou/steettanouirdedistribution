@@ -22,7 +22,7 @@ export default function Navbar() {
             Produits
           </Link>
           <Link
-            to='/products?category=Sacs%20à%20dos'
+            to={`/products?category=${encodeURIComponent("Sac à dos")}`}
             className='text-gray-700 hover:text-primary-600'>
             Sacs à dos
           </Link>
@@ -54,7 +54,7 @@ export default function Navbar() {
               Produits
             </Link>
             <Link
-              to='/products?category=Sacs%20à%20dos'
+              to={`/products?category=${encodeURIComponent("Sac à dos")}`}
               onClick={() => setOpen(false)}>
               Sacs à dos
             </Link>
